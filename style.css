@@ -1,0 +1,15 @@
+p  {
+    color: blue
+  }
+  .asteroidb329big {
+    color: blue
+  }
+  #b325, .asteroidb326 {
+    border: green solid 1px
+  }
+  #b325, .asteroidb326, .asteroidb329big {
+    font-weight: bold
+  }
+  p {
+    background: yellow
+  }
